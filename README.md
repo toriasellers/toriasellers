@@ -1,16 +1,14 @@
-### Hi there 👋
+const Toria = {
+  pronouns: "she" | "her" ❤️,
+  skills: [HTML, CSS, JS, Python, Flask, SQL, Node.js, JQuery, Git] 🐍,
+  about me: [a pilates princess who drinks diet coke],
+  more info: {
+                        contact me: ➡️ https://www.linkedin.com/in/victoria-sellers-9630a6251/ ⬅️,
+                        certified: "University of South Florida Full-Stack Software Engineering Bootcamp 🐮",
+                        year up: "Fall 2023 Student Cohort" ✌🏽,
+                        edu : "computer science and mathematics" 💻,
+                      },
 
-<!--
-**toriasellers/toriasellers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+}
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+// Thanks for reading! Feel free to reach out! 
