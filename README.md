@@ -1,5 +1,5 @@
-# Hi, my name is toria! (she,her) ❤️
+# Hi, my name is Toria! ❤️
 # skills: HTML, CSS, JS, Python, Flask, SQL, Node.js, JQuery, Git 💻🐍
 # contact me: ➡️ https://www.linkedin.com/in/victoria-sellers-9630a6251/
-# recently completed: University of South Florida Full-Stack Software Engineering Bootcamp 🐮
-# year up: Fall 2023 Student Cohort ✌🏽
+# Cetification: University of South Florida Full-Stack Software Engineering Bootcamp 🐮
+# Year Up: Fall 2023 Front-End Student Cohort ✌🏽
